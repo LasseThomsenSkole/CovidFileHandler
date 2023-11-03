@@ -1,6 +1,6 @@
 public class Covid19Data {
-    private String region;
-    private String aldersGruppe;
+    protected String region;
+    protected String aldersGruppe;
     private int bekræftetTilfælde;
     private int døde;
     private int intensiv;
